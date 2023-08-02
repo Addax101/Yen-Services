@@ -1,0 +1,103 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ww.com" resolutions="1x" timestamp="1479384489476">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="4285990560" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4090864414" ref="index"/>
+    <file name="index.css" crc="4254479831" ref="index"/>
+    <file name="nomq_index.css" crc="405634707" ref="index"/>
+    <file name="iefonts_index.css" crc="321525473" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u4549.php" crc="4283984180" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo agency_demo2_1.png" crc="268019304" seo="true" ref="index"/>
+    <file name="slider1.jpg" crc="352411371" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="view more_white.png" crc="4190544140" ref="index"/>
+    <file name="view more_black.png" crc="352826308" ref="index"/>
+    <file name="about_1.jpg" crc="3824422878" ref="index"/>
+    <file name="about_2.jpg" crc="4073776298" ref="index"/>
+    <file name="about_3.jpg" crc="470109649" ref="index"/>
+    <file name="background 1.jpg" crc="149110182" ref="index"/>
+    <file name="picture_2.jpg" crc="242974486" ref="index"/>
+    <file name="picture_1.jpg" crc="289321345" ref="index"/>
+    <file name="picture_3.jpg" crc="4223290557" ref="index"/>
+    <file name="background 2.jpg" crc="245288509" ref="index"/>
+    <file name="about_4.jpg" crc="29255676" ref="index"/>
+    <file name="portfolio_1.jpg" crc="3886459365" seo="true" ref="index"/>
+    <file name="portfolio_2.jpg" crc="3761675452" seo="true" ref="index"/>
+    <file name="portfolio_3.jpg" crc="532555522" seo="true" ref="index"/>
+    <file name="portfolio_4.jpg" crc="4177375493" seo="true" ref="index"/>
+    <file name="portfolio_5.jpg" crc="3767581920" seo="true" ref="index"/>
+    <file name="portfolio_6.jpg" crc="490688068" seo="true" ref="index"/>
+    <file name="portfolio_1327x245.jpg" crc="3880333595" seo="true" ref="index"/>
+    <file name="portfolio_2327x245.jpg" crc="3880333595" seo="true" ref="index"/>
+    <file name="portfolio_3327x245.jpg" crc="3880333595" seo="true" ref="index"/>
+    <file name="portfolio_4327x245.jpg" crc="3880333595" seo="true" ref="index"/>
+    <file name="portfolio_5327x245.jpg" crc="3880333595" seo="true" ref="index"/>
+    <file name="portfolio_6327x245.jpg" crc="3880333595" seo="true" ref="index"/>
+    <file name="services_1.jpg" crc="166739154" ref="index"/>
+    <file name="services_2.jpg" crc="122412140" ref="index"/>
+    <file name="services_3.jpg" crc="276375465" ref="index"/>
+    <file name="background 3.jpg" crc="311059157" ref="index"/>
+    <file name="team_2.jpg" crc="4122430239" ref="index"/>
+    <file name="team_1.jpg" crc="4072652190" ref="index"/>
+    <file name="team_3.jpg" crc="134440276" ref="index"/>
+    <file name="background 4.jpg" crc="283970845" ref="index"/>
+    <file name="process_1.jpg" crc="3824422878" ref="index"/>
+    <file name="background 5.jpg" crc="4259568183" ref="index"/>
+    <file name="client_1.jpg" crc="345019263" ref="index"/>
+    <file name="client_2.jpg" crc="3787404311" ref="index"/>
+    <file name="back_01.png" crc="79149005" ref="index"/>
+    <file name="back_02.png" crc="4127353076" ref="index"/>
+    <file name="next_01.png" crc="516890987" ref="index"/>
+    <file name="next_02.png" crc="229550672" ref="index"/>
+    <file name="u4564-17.png" crc="427776165" ref="index"/>
+    <file name="u4564-17-r.png" crc="273898902" ref="index"/>
+    <file name="u4564-17-m.png" crc="273898902" ref="index"/>
+    <file name="u4564-17-fs.png" crc="427776165" ref="index"/>
+    <file name="logo_1.png" crc="4036944510" seo="true" ref="index"/>
+    <file name="logo_2.png" crc="470977371" seo="true" ref="index"/>
+    <file name="logo_3.png" crc="352338424" seo="true" ref="index"/>
+    <file name="logo_4.png" crc="3986413883" seo="true" ref="index"/>
+    <file name="logo_5.png" crc="3836191193" seo="true" ref="index"/>
+    <file name="logo agency_demo2_2.png" crc="3811137846" seo="true" ref="index"/>
+    <file name="clock.png" crc="4165663007" seo="true" ref="index"/>
+    <file name="u4564-172.png" crc="427776165" ref="index"/>
+    <file name="u4564-17-r2.png" crc="273898902" ref="index"/>
+    <file name="u4564-17-m2.png" crc="273898902" ref="index"/>
+    <file name="u4564-17-fs2.png" crc="427776165" ref="index"/>
+    <file name="menu_normal.png" crc="3950518667" ref="index"/>
+    <file name="menu_active.png" crc="3924305527" ref="index"/>
+    <file name="portfolio_1320x240.jpg" crc="4159765777" seo="true" ref="index"/>
+    <file name="portfolio_2320x240.jpg" crc="4159765777" seo="true" ref="index"/>
+    <file name="portfolio_3320x240.jpg" crc="4159765777" seo="true" ref="index"/>
+    <file name="portfolio_4320x240.jpg" crc="4159765777" seo="true" ref="index"/>
+    <file name="portfolio_5320x240.jpg" crc="4159765777" seo="true" ref="index"/>
+    <file name="portfolio_6320x240.jpg" crc="4159765777" seo="true" ref="index"/>
+    <file name="u4564-173.png" crc="367377127" ref="index"/>
+    <file name="u4564-17-r3.png" crc="27590176" ref="index"/>
+    <file name="u4564-17-m3.png" crc="27590176" ref="index"/>
+    <file name="u4564-17-fs3.png" crc="367377127" ref="index"/>
+  </folder>
+  <file name="index.html" crc="7213910" seo="true" mt="1479315236585" redirect="true"/>
+</manifest>
