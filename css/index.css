@@ -1591,7 +1591,7 @@
 	font-family: raleway, sans-serif;
 }
 
-#u3149
+#u3149, #u31149
 {
 	border-style: solid;
 	position: relative;
@@ -1614,6 +1614,18 @@
 	background-size: cover;
 }
 
+#u31344
+{
+	position: relative;
+	margin-right: -10000px;
+	border-radius: 0px;
+	height: 200px;
+	background: transparent url("../images/team_7.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+
+
 #u3232
 {
 	border-color: #F6F6F6;
@@ -1633,6 +1645,16 @@
 	border-radius: 0px;
 	height: 200px;
 	background: transparent url("../images/team_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u32229
+{
+	position: relative;
+	margin-right: -10000px;
+	border-radius: 0px;
+	height: 200px;
+	background: transparent url("../images/team_5.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1718,6 +1740,26 @@
 }
 
 #u3289
+{
+	position: relative;
+	margin-right: -10000px;
+	border-radius: 0px;
+	height: 200px;
+	background: transparent url("../images/team_3.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u32899
+{
+	position: relative;
+	margin-right: -10000px;
+	border-radius: 0px;
+	height: 200px;
+	background: transparent url("../images/team_6.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u32922
 {
 	position: relative;
 	margin-right: -10000px;
@@ -4960,14 +5002,14 @@
 		left: 74.22%;
 	}
 
-	#u3229
+	#u3229, #u32229
 	{
 		z-index: 376;
 		width: 59.35%;
 		left: 19.59%;
 	}
 
-	#u3149
+	#u3149, #u31149
 	{
 		width: 25.66%;
 		left: 4.66%;
@@ -5068,14 +5110,14 @@
 		left: 74.22%;
 	}
 
-	#u3134
+	#u3134, #u31344
 	{
 		z-index: 375;
 		width: 15.51%;
 		left: 9.85%;
 	}
 
-	#u3289
+	#u3289, #u32899
 	{
 		z-index: 377;
 		width: 15.51%;
@@ -8398,13 +8440,13 @@
 		margin-left: 6.56%;
 	}
 
-	#pu3149
+	#pu3149, #u3149
 	{
 		margin-top: 60px;
 		width: 100%;
 	}
 
-	#u3149
+	#u3149, #u31149
 	{
 		width: 331px;
 		margin-left: 50%;
@@ -8459,7 +8501,7 @@
 		left: 25.500000000000014px;
 	}
 
-	#u3134
+	#u3134, #u31344
 	{
 		z-index: 374;
 		width: 200px;
@@ -8536,7 +8578,7 @@
 		left: 25.500000000000014px;
 	}
 
-	#u3229
+	#u3229, #u32229
 	{
 		z-index: 375;
 		width: 200px;
@@ -8612,7 +8654,7 @@
 		left: 24.5px;
 	}
 
-	#u3289
+	#u3289, #u32899
 	{
 		z-index: 376;
 		width: 204px;
@@ -11899,7 +11941,7 @@
 		margin-left: 6.72%;
 	}
 
-	#pu3149
+	#pu3149, #u31149
 	{
 		margin-top: 61px;
 		width: 100%;
@@ -11953,7 +11995,7 @@
 		left: 25.999999999999986px;
 	}
 
-	#u3134
+	#u3134, #u31344
 	{
 		z-index: 374;
 		width: 200px;
@@ -12023,7 +12065,7 @@
 		left: 25.999999999999986px;
 	}
 
-	#u3229
+	#u3229, #u32229
 	{
 		z-index: 375;
 		width: 200px;
@@ -12037,7 +12079,7 @@
 		width: 100%;
 	}
 
-	#u3149,#u3292
+	#u3149,#u3292, #u31149
 	{
 		width: 302px;
 		margin-left: 50%;
@@ -12099,7 +12141,7 @@
 		left: 24.999999999999986px;
 	}
 
-	#u3289
+	#u3289, #u32899
 	{
 		z-index: 376;
 		width: 204px;
